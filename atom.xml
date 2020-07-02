@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://aladdin-1130.github.io/</id>
     <title>HELLO! 这是个博客</title>
-    <updated>2020-07-02T01:57:49.465Z</updated>
+    <updated>2020-07-02T01:59:15.884Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://aladdin-1130.github.io/"/>
     <link rel="self" href="https://aladdin-1130.github.io/atom.xml"/>
@@ -10,6 +10,15 @@
     <logo>https://aladdin-1130.github.io/images/avatar.png</logo>
     <icon>https://aladdin-1130.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, HELLO! 这是个博客</rights>
+    <entry>
+        <title type="html"><![CDATA[aaaaaAAA啊啊啊啊]]></title>
+        <id>https://aladdin-1130.github.io/post/aaaaaaaa-a-a-a-a/</id>
+        <link href="https://aladdin-1130.github.io/post/aaaaaaaa-a-a-a-a/">
+        </link>
+        <updated>2020-07-02T01:57:55.000Z</updated>
+        <content type="html"><![CDATA[<p>到底怎么改时间啊🤣😱😱😱😱😱😱😱😱😱😭😭😭😭😭😭😭</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你好，时间]]></title>
         <id>https://aladdin-1130.github.io/post/ni-hao/</id>
